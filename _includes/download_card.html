@@ -1,0 +1,6 @@
+<article class="card download-card">
+  <h3>{{ include.item.title }}</h3>
+  <p>{{ include.item.description }}</p>
+  <p class="meta">{{ include.item.format }}{% if include.item.status %} · {{ include.item.status }}{% endif %}</p>
+  <a class="button" href="{{ include.item.href | relative_url }}">Download <span class="visually-hidden">{{ include.item.title }}</span></a>
+</article>
