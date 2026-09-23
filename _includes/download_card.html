@@ -1,6 +1,10 @@
 <article class="card download-card">
   <h3>{{ include.item.title }}</h3>
   <p>{{ include.item.description }}</p>
-  <p class="meta">{{ include.item.format }}{% if include.item.status %} · {{ include.item.status }}{% endif %}</p>
-  <a class="button" href="{{ include.item.href | relative_url }}">Download <span class="visually-hidden">{{ include.item.title }}</span></a>
+  <p class="meta">
+    {{ include.item.format }}{% if include.item.status %} · {{ include.item.status }}{% endif %}{% if include.item.access %} · {{ include.item.access }}{% endif %}
+  </p>
+  {% if include.item.status == "Available" and include.item.href != empty %}
+    <a class="button" href="{{ include.item.href | relative_url }}">Download <span class="visually-hidden">{{ include.item.title }}</span></a>
+  {% endif %}
 </article>

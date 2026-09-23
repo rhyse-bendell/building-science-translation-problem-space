@@ -6,7 +6,9 @@ permalink: /materials/
 
 # Project materials
 
-Approved project materials will appear here in accessible, downloadable formats. Files marked “Coming soon” are planned but not yet published. Internal planning materials are not posted publicly.
+Approved public project materials will be posted here in accessible, downloadable formats when they are available. Some project materials are distributed directly to invited participants and are listed without public download links.
+
+Internal planning materials are not posted publicly. Private participant materials are not hosted on this public site unless they have been explicitly approved for public release.
 
 <div class="card-grid">
   {% for item in site.data.downloads %}

@@ -1,0 +1,26 @@
+_private/
+_data/private*.yml
+_data/private/
+assets/js/private*.js
+.env
+.env.*
+!.env.example
+*.secret
+*.key
+*.pem
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+.DS_Store
+Thumbs.db
+
+# Documentation assets
+# Only approved public files should be committed under assets/docs/public/.
+assets/docs/*
+!assets/docs/.gitkeep
+!assets/docs/public/
+!assets/docs/public/**

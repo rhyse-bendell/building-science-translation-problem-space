@@ -1,10 +1,18 @@
-- title: Project overview
-  description: A concise overview of the project purpose, structure, and participation pathways.
+- title: Project Overview
+  description: Concise public overview of the project purpose, structure, expected outputs, and project personnel.
   format: PDF
   status: Coming soon
-  href: /assets/docs/project-overview.pdf
-- title: Participant information sheet
-  description: General guidance for invited project participants.
+  access: Public when approved
+  href: ""
+- title: Core Group Activity Materials
+  description: Materials for invited Core Group participants.
   format: PDF
-  status: Coming soon
-  href: /assets/docs/participant-information.pdf
+  status: Distributed by invitation
+  access: Direct distribution only
+  href: ""
+- title: Participant Information Sheet
+  description: Participant-facing information for invited study activities.
+  format: PDF
+  status: Distributed by invitation
+  access: Direct distribution only
+  href: ""
