@@ -6,7 +6,7 @@ permalink: /materials/
 
 # Project materials
 
-Selected, approved materials will be made available here in accessible, downloadable formats. Placeholder entries indicate planned resources; files marked “Coming soon” are not yet published.
+Approved project materials will appear here in accessible, downloadable formats. Files marked “Coming soon” are planned but not yet published. Internal planning materials are not posted publicly.
 
 <div class="card-grid">
   {% for item in site.data.downloads %}
