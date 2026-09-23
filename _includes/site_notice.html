@@ -1,0 +1,6 @@
+{% if include.title or include.text %}
+<aside class="site-notice" role="note">
+  {% if include.title %}<strong>{{ include.title }}</strong>{% endif %}
+  {% if include.text %}<span>{{ include.text }}</span>{% endif %}
+</aside>
+{% endif %}

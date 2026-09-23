@@ -1,0 +1,9 @@
+<div class="card-grid people-grid">
+  {% for person in include.people %}
+  <article class="card person-card">
+    <h3>{{ person.name }}</h3>
+    {% if person.title %}<p>{{ person.title }}</p>{% endif %}
+    {% if person.affiliation %}<p class="meta">{{ person.affiliation }}</p>{% endif %}
+  </article>
+  {% endfor %}
+</div>
