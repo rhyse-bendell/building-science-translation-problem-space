@@ -52,3 +52,12 @@ button { cursor: pointer; font: inherit; }
 .site-footer p { margin: .25rem 0; }
 @media (min-width: 54rem) { .header-inner { display: flex; align-items: baseline; gap: 2rem; } .site-title { flex: 0 0 auto; margin: 0; } }
 @media print { .site-header nav, .site-footer, .skip-link { display: none; } .hero { color: var(--ink); background: none; border: 0; } .hero h1 { color: var(--navy); } }
+
+.section-label { margin-bottom: .4rem; color: var(--teal); font-size: .8rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.hero .section-label { color: #f0dba8; }
+.card h2 { margin-top: 0; font-size: 1.35rem; }
+.card > :last-child { margin-bottom: 0; }
+.glossary { max-width: 56rem; }
+.glossary dt { margin-top: 1.35rem; color: var(--navy); font-size: 1.1rem; font-weight: 750; }
+.glossary dd { margin: .25rem 0 0; }
+.status-badge { display: inline-block; margin-block: .25rem 1rem; padding: .3rem .65rem; border: 1px solid var(--gold); border-radius: 999px; color: var(--navy-dark); background: #faf7ee; font-weight: 750; }

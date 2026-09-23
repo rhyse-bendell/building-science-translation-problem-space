@@ -6,6 +6,8 @@ permalink: /participate/
 
 # Participate
 
+<p class="status-badge">Participant activity status: Not yet open</p>
+
 Invited participants should use the access code provided by the research team. This gateway is a low-friction routing mechanism only; it is **not secure authentication** and should not be used to submit sensitive information.
 
 <form id="access-form">

@@ -6,7 +6,9 @@ permalink: /contact/
 
 # Contact the project team
 
-Use this form for general project questions. Do not submit sensitive, classified, proprietary, or personally identifying information.
+Use this form for general questions about the project, participation, or public materials. The form endpoint and public project email remain placeholders and will be activated after review.
+
+**Do not submit classified, controlled, proprietary, sensitive, or personally identifying information through this form.**
 
 <!-- Configure spam protection in Formspree settings; do not add third-party CAPTCHA scripts here. -->
 <form action="https://formspree.io/f/REPLACE_WITH_FORM_ID" method="post">
