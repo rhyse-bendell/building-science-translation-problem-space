@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /participate/
-Disallow: /assets/docs/private/
+Disallow: /building-science-translation-problem-space/participate/
+Disallow: /building-science-translation-problem-space/assets/docs/
 
 Sitemap: https://rhyse-bendell.github.io/building-science-translation-problem-space/sitemap.xml

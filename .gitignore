@@ -1,5 +1,4 @@
 _private/
-assets/docs/private/
 _data/private*.yml
 _data/private/
 assets/js/private*.js
@@ -18,3 +17,10 @@ _site/
 vendor/
 .DS_Store
 Thumbs.db
+
+# Documentation assets
+# Only approved public files should be committed under assets/docs/public/.
+assets/docs/*
+!assets/docs/.gitkeep
+!assets/docs/public/
+!assets/docs/public/**

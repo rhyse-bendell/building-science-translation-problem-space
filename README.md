@@ -21,6 +21,8 @@ This repository is public, and GitHub Pages serves static public files. Anything
 
 Approved public documents may be placed under `assets/docs/public/`. Private or controlled documents must not be committed; store and distribute them through approved, controlled-access channels. The site may list private materials as “distributed by invitation,” but it must not host them publicly.
 
+The `robots.txt` rules and page-level `noindex` metadata provide indexing guidance only; they are not access controls and cannot make published files private.
+
 ### Pre-publication checklist
 
 - [ ] No real study access code in the repository.
