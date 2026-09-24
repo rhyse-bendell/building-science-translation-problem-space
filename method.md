@@ -16,6 +16,10 @@ permalink: /method/
     <div><p class="section-label">The method</p><h2 id="gcm-does-heading">What Group Concept Mapping does</h2></div>
     <div class="prose-block"><p>Group Concept Mapping (GCM) combines qualitative stakeholder input with structured sorting and rating activities and quantitative mapping. Participants generate statements about a complex problem, organize those statements by perceived similarity, and rate them on key dimensions.</p><p>The research team analyzes the sorting and rating data to produce maps, themes, and other interpretable patterns. Participants and project contributors then help interpret what those patterns mean.</p></div>
   </div>
+  <figure class="method-figure">
+    <img src="{{ '/assets/img/gcm-process.png' | relative_url }}" alt="Infographic showing Group Concept Mapping moving from data collection, to analysis, to results including point maps, cluster maps, pattern matches, and go-zones.">
+    <figcaption>Group Concept Mapping translates stakeholder input into structured maps, rating summaries, and interpretable outputs that support planning and decision-making.</figcaption>
+  </figure>
 </section>
 
 <section class="section-band" aria-labelledby="project-use-heading">
