@@ -29,7 +29,3 @@ These materials are listed for orientation only. They do not have public downloa
     {% include download_card.html item=item %}
   {% endfor %}
 </div>
-
-## Internal materials not posted publicly
-
-Internal planning, working, participant-management, and analysis materials are not posted on this public site. A reference on this page does not indicate that a private file is publicly available.
