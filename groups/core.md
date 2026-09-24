@@ -29,10 +29,14 @@ The research team will provide instructions and timing for each activity.
 
 Core Group participation produces examples and candidate statements, review comments, sorting and rating data, suggested names and interpretations for clusters, and feedback on emerging products. These contributions help connect the analysis to real experience across stakeholder settings.
 
-## How Core Group input will be used
+## How Core Group input becomes project data
 
 The research team will treat Core Group contributions as structured project data, review, and interpretation support. Input will help organize the problem space, identify priorities and gaps, explain patterns, and improve the clarity and usefulness of project outputs.
 
 ## What the Core Group does not do
 
 The Core Group does not manage the project, conduct the analysis, or write the final report. The research team remains responsible for study decisions, data management and analysis, synthesis, and final products.
+
+## Current status
+
+{% include site_notice.html title="Activities not yet open" text="Core Group activities and participant-specific instructions are being prepared. Invited members will receive access details directly from the research team when an activity opens." %}

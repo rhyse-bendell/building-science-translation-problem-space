@@ -21,7 +21,7 @@ The preamble establishes a shared starting point for participants from different
 
 > For purposes of this project, science translation refers to the process of turning defense-related scientific findings, technologies, methods, models, or evidence-based practices into practical, usable, scalable, and sustainable applications. These applications may support operational, policy, organizational, or professional practice contexts. Science translation is not always a linear progression from discovery to use. It may require continued feedback and collaboration among researchers, funders, developers, decision-makers, practitioners, and intended users. Challenges can arise at any point, for example, from identifying an operational need and adapting research for real-world use to adoption, implementation, scaling, sustainment, and impact. When responding, please consider the scientific, technical, organizational, financial, policy, cultural, workforce, and collaborative factors that may help or hinder this process.
 
-## Working focus prompt
+## Earlier draft prompt
 
 The earlier draft focus prompt is retained here for transparent review; it is not final:
 
@@ -33,7 +33,16 @@ The following is a working candidate, not a final prompt:
 
 > Defense-related science would be more successfully translated into use if...
 
-## How to respond
+## What we need collaborators to assess
+
+- Is the language understandable across defense, academic, industry, and applied communities?
+- Does the prompt invite broad, relevant responses without over-prescribing the answer?
+- Are any terms likely to be interpreted differently by different stakeholder groups?
+- Does the preamble provide enough context without narrowing the range of responses?
+
+Collaborator comments will inform revision; the text on this page should not be treated as approved participant language.
+
+## Response guidance
 
 - Provide one clear idea per statement.
 - Draw on experience or observation; concise examples are welcome.

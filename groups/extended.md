@@ -21,3 +21,7 @@ Participation is primarily virtual and asynchronous, so members can respond with
 ## How input will be used
 
 Extended Group input will broaden the project data, help test whether emerging patterns reflect varied stakeholder experiences, and inform maps, priorities, interpretations, and public products. The research team will combine this input with contributions from other participant groups for project-level analysis.
+
+## What not to include
+
+Do not provide classified, controlled, proprietary, sensitive, or personally identifying information. Do not name individuals or disclose information that should not be shared with the research team. Activity-specific guidance will accompany each invitation, and no Extended Group activity is currently open on this public site.

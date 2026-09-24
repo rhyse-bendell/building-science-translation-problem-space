@@ -9,6 +9,8 @@ permalink: /advisory-group/
 
 The Advisory Group includes members with experience across defense, academia, industry, research administration, applied science, and translation-relevant communities. Public bios and affiliations are being prepared for review.
 
+This page is a collaborator-review placeholder. Names are retained to orient reviewers; no affiliations or titles should be inferred from this listing.
+
 {% include site_notice.html title="Information in preparation" text="Names are listed below. Public bios, affiliations, and any additional profile information will be added only after review." %}
 
 {% include people_grid.html people=site.data.advisory_group %}
