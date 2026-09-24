@@ -13,7 +13,6 @@ permalink: /
     <nav class="hero-actions" aria-label="Project links">
       <a class="button button-light" href="{{ '/about/' | relative_url }}">Learn about the project</a>
       <a class="button button-outline" href="{{ '/method/' | relative_url }}">View the method</a>
-      <a class="text-link" href="{{ '/participate/' | relative_url }}">Participation status <span aria-hidden="true">→</span></a>
     </nav>
   </div>
 </section>
