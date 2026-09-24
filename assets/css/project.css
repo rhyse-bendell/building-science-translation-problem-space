@@ -105,6 +105,9 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
 .method-note > strong { color: var(--navy); }
 .method-note span { color: var(--muted); }
 .method-note b { padding-inline: .25rem; color: var(--gold); }
+.method-figure { max-width: 64rem; margin: clamp(2rem, 5vw, 3.5rem) auto 0; }
+.method-figure img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: .35rem; background: var(--white); box-shadow: var(--shadow); }
+.method-figure figcaption { max-width: 52rem; margin: .85rem auto 0; color: var(--muted); font-size: .92rem; line-height: 1.55; text-align: center; }
 .method-output-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .output-card { box-shadow: none; }
 
