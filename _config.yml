@@ -11,13 +11,7 @@ header_pages:
   - index.md
   - about.md
   - method.md
-  - definitions.md
-  - groups.md
-  - preamble-prompt.md
   - participate.md
-  - materials.md
-  - team.md
-  - advisory-group.md
   - contact.md
 
 exclude:

@@ -6,7 +6,7 @@ permalink: /contact/
 
 # Contact the project team
 
-{% include site_notice.html title="Contact routing in preparation" text="Project contact routing is being finalized. For now, collaborators should use the contact channel provided directly by the research team." %}
+{% include site_notice.html title="Contact routing in preparation" text="Project contact routing is being finalized. Until this form is activated, collaborators may use the contact channel provided directly by the research team." %}
 
 The form below is a visible placeholder for collaborator review. Its endpoint has not been configured, so it should not be used to send a message.
 

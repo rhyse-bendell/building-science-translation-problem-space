@@ -64,5 +64,14 @@ button { cursor: pointer; font: inherit; }
 .group-grid .status-badge { margin-bottom: 0; font-size: .85rem; }
 .download-card { display: flex; flex-direction: column; }
 .download-card .button { align-self: start; margin-top: auto; }
+.public-materials { margin-top: 1rem; }
+.name-list { columns: 2 16rem; max-width: 45rem; padding-left: 1.25rem; }
+.name-list li { break-inside: avoid; margin-bottom: .25rem; }
+.process-band { display: grid; grid-template-columns: repeat(6, minmax(7rem, 1fr)); margin: 1.25rem 0; padding: 0; overflow-x: auto; list-style: none; counter-reset: stage; }
+.process-band li { min-width: 7rem; padding: 1rem .75rem; border-right: 1px solid #c7d8dc; color: var(--navy); background: var(--wash); font-weight: 750; counter-increment: stage; }
+.process-band li::before { display: block; margin-bottom: .2rem; color: var(--teal); content: counter(stage, decimal-leading-zero); font-size: .8rem; letter-spacing: .06em; }
+.process-band li:last-child { border-right: 0; }
+.participation-placeholder { max-width: 48rem; margin-block: 1.5rem; padding: 1.25rem; border: 1px dashed var(--teal); background: var(--wash); }
+.participation-placeholder > :last-child { margin-bottom: 0; }
 .method-note { max-width: 56rem; margin-top: 1.5rem; padding: 1rem 1.15rem; border-left: .3rem solid var(--teal); background: var(--wash); font-weight: 650; }
 button:disabled, input:disabled, textarea:disabled { cursor: not-allowed; opacity: .65; }

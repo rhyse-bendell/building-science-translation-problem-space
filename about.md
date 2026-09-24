@@ -6,50 +6,51 @@ permalink: /about/
 
 # About the project
 
-## Project purpose
+## Project overview
 
-**Building a Problem Space for Science Translation** is an Army Research Office-funded project examining how scientific findings move from research settings into real-world use. The project is developing a structured account of the actors, contexts, barriers, facilitators, leverage points, and coordination needs that shape whether research becomes usable policy, programs, technologies, practices, or capabilities.
+**Building a Problem Space for Science Translation** is an Army Research Office-funded project examining how scientific findings move from research settings into real-world use. The project will build a structured problem space for science translation by identifying actors, contexts, barriers, facilitators, and leverage points that shape whether research becomes usable policy, programs, technologies, practices, or capabilities.
 
-The work is organized around defense, industry, and academia while recognizing that science translation crosses institutional and professional boundaries. Its aim is not to assume a single pathway or definition of success, but to build a stakeholder-informed view of the wider system.
+## Why this project is being conducted
 
-## Why science translation is a problem space
+The project is intended to create a clear and usable description of the science translation process. It brings practical experience from different parts of the research-to-use pathway into a structured account of the people, processes, barriers, supports, and decision points that shape whether research becomes useful in practice.
 
-Science translation is rarely a simple progression from discovery to delivery. A finding may need to be understood, adapted, evaluated, resourced, adopted, implemented, and sustained. Responsibility may pass among funders, researchers, developers, program leaders, acquisition and policy communities, practitioners, and intended users—with feedback needed throughout.
+## Expected project products
 
-These actors operate in different contexts and may use different language, incentives, evidence standards, timelines, authorities, and measures of success. A promising idea can stall because of a technical limitation, but it can also stall because needs were not aligned, ownership was unclear, relationships were missing, or a solution could not be maintained in its intended setting. Treating translation as a problem space makes these interacting conditions and dependencies available for collective examination.
+- A science translation problem map.
+- A stakeholder-informed framework.
+- Priority areas and leverage points.
+- Briefings, reports, and scholarly products.
 
-## What the project will map
+## Engagement structure
 
-The project will examine:
+The project is structured around three primary stakeholder pillars: defense, industry, and academia. Participant engagement occurs through an Advisory Group, a Core Group, and an Extended Group.
 
-- **Actors and stakeholder roles:** who contributes to, influences, supports, adopts, or is affected by translation.
-- **Contexts and settings:** where translation takes place and how organizational, operational, policy, and professional environments shape it.
-- **Barriers and facilitators:** conditions that hinder progress and those that enable it.
-- **Leverage points:** places where focused attention or intervention may create meaningful improvement.
-- **Coordination needs:** where communication, alignment, sequencing, role clarity, information exchange, or shared action are needed.
-- **Translation pathways:** how research may move, adapt, pause, loop back, or progress toward use and sustainment.
+## Role of the Advisory Group
 
-## Who the project engages
+The Advisory Group provides high-level guidance to help ensure that the project is framed clearly, includes the right stakeholder perspectives, uses appropriate language, and produces credible and useful outputs. Members advise on direction, scope, recruitment, interpretation, and practical relevance. They are not expected to complete the detailed activities assigned to the Core Group.
 
-Three complementary groups contribute at different levels of intensity:
+## Role of the Core Group
 
-- The **Advisory Group** provides high-level guidance on framing, stakeholder coverage, recruitment strategy, interpretation, and practical relevance.
-- The **Core Group** provides deeper structured input through examples, statement review, sorting, rating, interpretation, and feedback on emerging products.
-- The **Extended Group** provides broader asynchronous input through invited online brainstorming, sorting, rating, and feedback activities.
+The Core Group helps the research team develop a clear and usable description of the science translation process. Members contribute examples, review project materials, organize and rate concepts, and help interpret results. The Core Group does not manage the project, conduct the analysis, or write the final report.
 
-Together, these groups can reflect perspectives across the research-to-use pathway without asking every participant to make the same commitment. Learn more on the [engagement groups overview]({{ '/groups/' | relative_url }}).
+## Role of the Extended Group
 
-## What the project will produce
+The Extended Group provides broader stakeholder input through invited activities. Members may contribute statements or examples, sort statements into meaningful groups, rate them on key dimensions, or provide feedback during selected project phases.
 
-- A **science translation problem map**.
-- A **stakeholder-informed framework**.
-- **Priority areas and leverage points**.
-- **Briefings, reports, and scholarly products**.
+## Project personnel
 
-The exact form and emphasis of these products will be informed by participant input, structured analysis, interpretation, and review.
+- **Stephen M. Fiore**, University of Central Florida
+- **Rhyse Bendell**, University of Central Florida
+- **Scott Rosas**, Concept Systems Inc.
+- **Greg Ruark**, Army Research Office
 
-## How outputs may be used
+## Public materials
 
-Outputs may provide a shared foundation for discussing science translation; identifying gaps, dependencies, and research priorities; improving coordination among stakeholder communities; and informing future program, engagement, or research strategies. They are intended to help collaborators ask better questions and see relationships across the system—not to prescribe one universal translation pathway.
+<div class="card-grid download-grid public-materials">
+  {% assign public_downloads = site.data.downloads | where: "access", "Public" %}
+  {% for item in public_downloads %}
+    {% include download_card.html item=item %}
+  {% endfor %}
+</div>
 
-Approved public outputs will be added to [Project materials]({{ '/materials/' | relative_url }}) as they become available. The [Method page]({{ '/method/' | relative_url }}) explains how stakeholder contributions become structured maps and findings.
+Invitation-only activity materials are listed without public links on the [Project materials page]({{ '/materials/' | relative_url }}).
