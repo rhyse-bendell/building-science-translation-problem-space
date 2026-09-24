@@ -12,7 +12,7 @@ permalink: /method/
 
 GCM combines qualitative input with quantitative analysis while preserving a clear connection to participants' original ideas. The result is a visual and structured representation of how a group understands a problem space.
 
-## Why this method fits the project
+## Why GCM fits this project
 
 Science translation involves multiple communities, settings, stages, and definitions of success. GCM can bring those perspectives together without requiring the research team to impose a complete structure in advance. It makes areas of convergence and difference visible and supports discussion of relationships, priorities, and potential leverage points.
 
@@ -34,3 +34,6 @@ Individual contributions will be combined into project-level results. Activity-s
 <article class="card"><p class="section-label">Stage 5</p><h3>Analysis and mapping</h3><p>Analyze sorting and rating data to identify clusters, relationships, priorities, and areas of difference.</p></article>
 <article class="card"><p class="section-label">Stage 6</p><h3>Interpretation and outputs</h3><p>Interpret the maps with stakeholder input and develop frameworks, priorities, reports, briefings, and scholarly products.</p></article>
 </div>
+
+This approach preserves a direct connection to stakeholder-generated statements while enabling structured analysis of relationships, patterns, and priorities.
+{: .method-note }

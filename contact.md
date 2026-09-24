@@ -6,22 +6,21 @@ permalink: /contact/
 
 # Contact the project team
 
-Use this form for general questions about the project, participation, or public materials. The form endpoint and public project email remain placeholders and will be activated after review.
+{% include site_notice.html title="Contact routing in preparation" text="Project contact routing is being finalized. For now, collaborators should use the contact channel provided directly by the research team." %}
+
+The form below is a visible placeholder for collaborator review. Its endpoint has not been configured, so it should not be used to send a message.
 
 **Do not submit classified, controlled, proprietary, sensitive, or personally identifying information through this form.**
 
-<!-- Configure spam protection in Formspree settings; do not add third-party CAPTCHA scripts here. -->
 <form action="https://formspree.io/f/REPLACE_WITH_FORM_ID" method="post">
   <label for="contact-name">Name</label>
-  <input id="contact-name" name="name" type="text" autocomplete="name">
+  <input id="contact-name" name="name" type="text" autocomplete="name" disabled>
 
   <label for="contact-email">Email</label>
-  <input id="contact-email" name="email" type="email" autocomplete="email" required>
+  <input id="contact-email" name="email" type="email" autocomplete="email" disabled>
 
   <label for="contact-message">Message</label>
-  <textarea id="contact-message" name="message" rows="7" required></textarea>
+  <textarea id="contact-message" name="message" rows="7" disabled></textarea>
 
-  <button class="button" type="submit">Send message</button>
+  <button class="button" type="submit" disabled>Form not yet available</button>
 </form>
-
-Prefer email? Contact the project team at **[project email to be added]**.

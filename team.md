@@ -7,7 +7,9 @@ permalink: /team/
 
 # Research team
 
-The research team is responsible for study design and management, participant engagement, data stewardship and analysis, interpretation, and the preparation and review of project outputs. Team members coordinate the structured process while ensuring that stakeholder contributions inform the resulting maps, frameworks, and priorities.
+## How the team supports the project
+
+The research team coordinates study design, participant engagement, analysis, interpretation, and preparation of approved outputs. Team members manage the structured process while ensuring that stakeholder contributions inform the resulting maps, frameworks, priorities, briefings, reports, and scholarly products.
 
 Public contact information will be added after review; personal email addresses are not listed on this page.
 

@@ -1,18 +1,36 @@
 - title: Project Overview
-  description: Concise public overview of the project purpose, structure, expected outputs, and project personnel.
+  description: Concise public overview of the project purpose, structure, expected outputs, engagement groups, and project personnel.
   format: PDF
-  status: Coming soon
-  access: Public when approved
-  href: ""
+  status: Available
+  access: Public
+  href: /assets/docs/public/ARO Science Translation Project Overview.pdf
+- title: Advisory Group Description and Overview
+  description: Public-facing overview of the Advisory Group role, expected contributions, and how advisory input will be used.
+  format: DOCX
+  status: Available
+  access: Public
+  href: /assets/docs/public/Advisory Group Description and Overview.docx
+- title: Core Group Overview
+  description: Public-facing overview of the Core Group role, expected activities, outputs, and use of Core Group input.
+  format: DOCX
+  status: Available
+  access: Public
+  href: /assets/docs/public/Core Group Overview.docx
 - title: Core Group Activity Materials
-  description: Materials for invited Core Group participants.
-  format: PDF
+  description: Activity-specific materials for invited Core Group participants.
+  format: To be confirmed
   status: Distributed by invitation
   access: Direct distribution only
   href: ""
 - title: Participant Information Sheet
   description: Participant-facing information for invited study activities.
-  format: PDF
+  format: To be confirmed
+  status: Distributed by invitation
+  access: Direct distribution only
+  href: ""
+- title: Extended Group Activity Instructions
+  description: Activity-specific instructions for invited Extended Group participants.
+  format: To be confirmed
   status: Distributed by invitation
   access: Direct distribution only
   href: ""
