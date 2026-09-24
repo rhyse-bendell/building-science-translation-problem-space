@@ -71,6 +71,11 @@ button { cursor: pointer; font: inherit; }
 .process-band li { min-width: 7rem; padding: 1rem .75rem; border-right: 1px solid #c7d8dc; color: var(--navy); background: var(--wash); font-weight: 750; counter-increment: stage; }
 .process-band li::before { display: block; margin-bottom: .2rem; color: var(--teal); content: counter(stage, decimal-leading-zero); font-size: .8rem; letter-spacing: .06em; }
 .process-band li:last-child { border-right: 0; }
+.process-band-detailed li { font-weight: 400; }
+.process-band-detailed strong, .process-band-detailed span { display: block; }
+.process-band-detailed strong { line-height: 1.3; }
+.process-band-detailed span { margin-top: .5rem; color: var(--ink); font-size: .9rem; line-height: 1.45; }
+.method-output-grid { grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr)); }
 .participation-placeholder { max-width: 48rem; margin-block: 1.5rem; padding: 1.25rem; border: 1px dashed var(--teal); background: var(--wash); }
 .participation-placeholder > :last-child { margin-bottom: 0; }
 .method-note { max-width: 56rem; margin-top: 1.5rem; padding: 1rem 1.15rem; border-left: .3rem solid var(--teal); background: var(--wash); font-weight: 650; }
